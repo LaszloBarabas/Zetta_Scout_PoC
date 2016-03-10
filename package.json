@@ -1,0 +1,18 @@
+{
+  "name": "02_Zetta_with_Scout_PoC",
+  "version": "1.0.0",
+  "description": "Zetta with Scout ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zetta",
+    "scout"
+  ],
+  "author": "Laszlo Barabas",
+  "license": "ISC",
+  "dependencies": {
+    "zetta": "^1.0.0-beta.6"
+  }
+}
